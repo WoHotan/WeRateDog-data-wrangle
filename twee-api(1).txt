@@ -1,0 +1,11 @@
+Consumer Key (API Key)	kWveDsBAiBEc1sRku0DIElJv0
+Consumer Secret (API Secret)	e1QwCv5vq6TQqj0IsNSa5iNPbdkfPAf4tVgLoAg7aLBNh9u173
+Access Level	Read and write (modify app permissions)
+Owner	Wpoole635099320
+Owner ID	957973054172250113
+
+Access Token	957973054172250113-iAOc2Pm6hjQ0KkgKkFHhmL4PzA6BLvO
+Access Token Secret	trO8tvp2R9sjrg9jxfWYUmAnv1raG6BTYsqwHNQqOaMsj
+Access Level	Read and write
+Owner	Wpoole635099320
+Owner ID	957973054172250113
